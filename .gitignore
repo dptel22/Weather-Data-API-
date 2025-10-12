@@ -1,0 +1,7 @@
+.idea
+.venv
+/static/cat.png
+/about.html
+/tutorial.html
+/tutorial.ipynb
+/.ipynb_checkpoints/tutorial-checkpoint.ipynb
